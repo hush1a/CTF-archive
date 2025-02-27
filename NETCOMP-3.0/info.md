@@ -1,4 +1,2 @@
 # NETCOMP (National Networking Competition)
 is an event designed to provide understanding in the fields of cybersecurity and networking. This event aims to bridge the gap between education and industry, focusing on the development of practical skills. The event is divided into several activities, including cybersecurity and networking competitions. the National Networking Competition 3.0 is expected to enhance the quality and capabilities of the younger generation in networking and cybersecurity.
-
-#### This was my first CTF Competition, and i was only able to solve 1 question in the topic of `Cryptography`.
