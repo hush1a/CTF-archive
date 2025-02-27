@@ -87,4 +87,4 @@ print("Recovered Flag:", original_flag)
 ```
 When the program is ran, the flag will be printed:
 
-Flag: **ARA6{8yT3\_c0d3\_W1Th\_51MPl3\_m4th\_15\_345Y\_\_\_\_R19ht?}**
+Flag: `ARA6{8yT3_c0d3_W1Th_51MPl3_m4th_15_345Y____R19ht?}`
