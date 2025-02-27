@@ -1,4 +1,4 @@
-1. ### Simple Math \- 100 pts
+### Simple Math \- 100 pts
 **Reverse Engineering**   
 Description:  
 "Python is a high-level, general-purpose programming language. Its design philosophy emphasizes code readability with the use of significant indentation."
